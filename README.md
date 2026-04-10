@@ -1,6 +1,6 @@
-# Gradient-Based Weight Clustering (GBWC)
+# Granular Ball-based Weighted Clustering (GBWC)
 
-This repository contains the implementation of the Gradient-Based Weight Clustering (GBWC) algorithm. The algorithm is designed to learn feature weights automatically during the clustering process to handle high-dimensional data effectively.
+This repository contains the implementation of the Granular Ball-based Weighted Clustering (GBWC) algorithm. The algorithm is designed to learn feature weights automatically during the clustering process to handle high-dimensional data effectively.
 
 ## Dependencies
 
